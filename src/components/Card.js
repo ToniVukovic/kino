@@ -14,6 +14,7 @@ const Card = (props) => {
         )}
       </div>
       <div className="card-boxes-wrapper">
+        <h2 className="ime-filma">Ime filma velikim velikim velikim slovima</h2>
         <p className="dan">Danas</p>
         <p className="termini-danas">
           <p className="termin">20:00</p>
